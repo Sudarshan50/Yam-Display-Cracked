@@ -1,0 +1,29 @@
+/* Class = "UILabel"; text = "1. Install Yam Display on your Mac"; ObjectID = "c7Z-J9-rc5"; */
+////"c7Z-J9-rc5.text" = "1. MacにYam Displayをインストールします";
+
+"c7Z-J9-rc5.text" = "1. MacにYam Displayを設置します。";
+//"c7Z-J9-rc5.text" = "1. MacにYam Padを設置します。";
+
+/* Class = "UILabel"; text = "(www.yamdisplay.com)"; ObjectID = "zaF-9G-188"; */
+"zaF-9G-188.text" = "(ダウンロード: yamdisplay.com)";
+//"zaF-9G-188.text" = "(ダウンロード: yamdisplay.com/yampad)";
+
+/* Class = "UILabel"; text = "2. Connect via USB"; ObjectID = "KVl-ly-FvA"; */
+"KVl-ly-FvA.text" = "2. USBケーブルで接続します。";
+
+/* Class = "UILabel"; text = "2. Set \"Preferences > Enable Air Mode\""; ObjectID = "Jz2-PH-UzB"; */
+//"Jz2-PH-UzB.text" = "2. \"設定 > Yam Air サポート\"を選択します";
+//"Jz2-PH-UzB.text" = "2. 設定でYam Airを有効にします。";
+"Jz2-PH-UzB.text" = "2. 設定でエアモードを有効にします。";
+
+
+/* Class = "UILabel"; text = "status"; ObjectID = "OfX-KT-GXa"; */
+"OfX-KT-GXa.text" = "status";
+
+/* Class = "UIButton"; normalTitle = "Reset trusted Mac list"; ObjectID = "Pqh-Rt-f8F"; */
+"Pqh-Rt-f8F.normalTitle" = "自動接続Macリストの初期化";
+
+// UI_FOR_STYLUS
+"C50-zZ-pBz.text" = "起動時にペアリング";
+"79i-Df-5E5.text" = "ボタン 1";
+"3aC-KV-F7Q.text" = "ボタン 2";

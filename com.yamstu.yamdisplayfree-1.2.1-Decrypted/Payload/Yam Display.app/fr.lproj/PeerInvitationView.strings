@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Trust to auto connect"; ObjectID = "IA2-h5-0lP"; */
+"IA2-h5-0lP.text" = "Se connecter automatiquement";
+
+/* Class = "UILabel"; text = "\"Mac with long name like this\" wants to connect"; ObjectID = "TiY-u1-Iqi"; */
+//"TiY-u1-Iqi.text" = "\"Mac with long name like this\" wants to connect";
+
+/* Class = "UILabel"; text = "Yam Air"; ObjectID = "g1t-gs-r7U"; */
+//"g1t-gs-r7U.text" = "Yam Air";
+// CI_YAMPAD_AIR
+//"g1t-gs-r7U.text" = "Yam Pad Air";
+

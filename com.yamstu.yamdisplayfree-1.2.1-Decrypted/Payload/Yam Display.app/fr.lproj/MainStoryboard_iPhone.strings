@@ -1,0 +1,34 @@
+/* Class = "UILabel"; text = "1. Install Yam Display on your Mac"; ObjectID = "c7Z-J9-rc5"; */
+// CI_YAMPAD || CI_YAMPAD_AIR
+"c7Z-J9-rc5.text" = "1. Installez Yam Display sur votre Mac.";
+//"c7Z-J9-rc5.text" = "1. Installez Yam Pad sur votre Mac.";
+
+
+/* Class = "UILabel"; text = "(www.yamdisplay.com)"; ObjectID = "zaF-9G-188"; */
+// CI_YAMPAD || CI_YAMPAD_AIR
+"zaF-9G-188.text" = "(www.yamdisplay.com)";
+//"zaF-9G-188.text" = "(www.yamdisplay.com/yampad)";
+
+
+/* Class = "UILabel"; text = "2. Connect via USB"; ObjectID = "KVl-ly-FvA"; */
+//"KVl-ly-FvA.text" = "2. Connectez à votre Mac avec le câble USB";
+//"KVl-ly-FvA.text" = "2. Connectez à votre Mac avec port USB";
+//"KVl-ly-FvA.text" = "2. Connectez à votre Mac avec USB";
+"KVl-ly-FvA.text" = "2. Connectez à votre Mac via USB.";
+
+/* Class = "UILabel"; text = "2. Set \"Preferences > Enable Air Mode\""; ObjectID = "Jz2-PH-UzB"; */
+//"Jz2-PH-UzB.text" = "2. Sélectionnez \"Préférences > Activer Yam Air\"";
+//"Jz2-PH-UzB.text" = "2. Activez Yam Air par les Préférences";
+"Jz2-PH-UzB.text" = "2. Activez Air Mode par les Préférences.";
+
+
+/* Class = "UILabel"; text = "status"; ObjectID = "OfX-KT-GXa"; */
+"OfX-KT-GXa.text" = "status";
+
+/* Class = "UIButton"; normalTitle = "Reset trusted Mac list"; ObjectID = "Pqh-Rt-f8F"; */
+"Pqh-Rt-f8F.normalTitle" = "Réinitialiser la liste Mac confiance";
+
+// UI_FOR_STYLUS
+"C50-zZ-pBz.text" = "Paire automatiquement";
+"79i-Df-5E5.text" = "Bouton 1";
+"3aC-KV-F7Q.text" = "Bouton 2";

@@ -1,0 +1,37 @@
+/* Class = "UILabel"; text = "1. Install Yam Display on your Mac"; ObjectID = "zyT-3Q-c8F"; */
+////"zyT-3Q-c8F.text" = "1. Mac에 Yam Display를 설치해 주세요.";
+
+"zyT-3Q-c8F.text" = "1. Mac에 Yam Display를 설치합니다.";
+//"zyT-3Q-c8F.text" = "1. Mac에 Yam Pad를 설치합니다.";
+
+
+/* Class = "UILabel"; text = "(www.yamdisplay.com)"; ObjectID = "RXI-iQ-b1R"; */
+"RXI-iQ-b1R.text" = "(다운로드: yamdisplay.com)";
+//"RXI-iQ-b1R.text" = "(다운로드: yamdisplay.com/yampad)";
+
+
+/* Class = "UILabel"; text = "2. Connect via USB"; ObjectID = "jpj-bU-aGT"; */
+//"jpj-bU-aGT.text" = "2. USB 케이블로 연결해 주세요.";
+"jpj-bU-aGT.text" = "2. USB 케이블로 연결합니다.";
+
+
+/* Class = "UILabel"; text = "2. Set \"Preferences > Enable Air Mode\""; ObjectID = "Us9-vL-Cpt"; */
+"Us9-vL-Cpt.text" = "2. 설정에서 Air Mode를 활성화합니다.";
+//"Us9-vL-Cpt.text" = "2. 메뉴에서 \"Preferences > Enable Air Mode\"를 체크해 주세요.";
+//"Us9-vL-Cpt.text" = "2. 설정 메뉴에서 Yam Air를 활성화합니다.";
+// "2. \"Preferences > Enable Air Mode\" 선택"
+
+
+/* Class = "UIButton"; normalTitle = "Reset trusted Mac list"; ObjectID = "Pqh-Rt-f8F"; */
+"Pqh-Rt-f8F.normalTitle" = "자동연결 Mac 리스트 초기화";
+
+
+/* Class = "UILabel"; text = "status"; ObjectID = "upp-Ai-JxF"; */
+"upp-Ai-JxF.text" = "status";
+
+// UI_FOR_STYLUS
+"wIz-cS-SNZ.text" = "앱 시작시 페어링";
+
+"Qjp-ZA-asH.text" = "버튼 1";
+"fmi-ei-Qzu.text" = "버튼 2";
+
