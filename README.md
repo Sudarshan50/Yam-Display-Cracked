@@ -117,7 +117,7 @@ This release removes **ALL limitations** from the free version:
 **Modification**: 7-minute limit removed + all premium features unlocked
 
 ### Download Links
-- [📥 Download IPA from Releases](../../releases/download/v1.2.1/YamDisplay_v1.2.1.ipa)
+- [📥 Download IPA from Releases](../../releases/download/beta/YamDisplay_Cracked.ipa)
 - [📂 View Source Files](../../tree/main)
 
 ---
