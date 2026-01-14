@@ -255,7 +255,7 @@ The official free version limits you to **7-minute sessions**, making it impract
 ---
 
 ### 🔗 Quick Links
-- [📥 Download IPA](../../releases/download/v1.2.1/YamDisplay_v1.2.1.ipa)
+- [📥 Download IPA](../../releases/download/beta/YamDisplay_Cracked.ipa)
 - [📖 Installation Guide](../../blob/main/INSTALLATION.md)
 - [🐛 Report Issues](../../issues)
 - [⭐ Star This Repo](../../stargazers)
