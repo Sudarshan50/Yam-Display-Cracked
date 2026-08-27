@@ -117,7 +117,7 @@ This release removes **ALL limitations** from the free version:
 **Modification**: 7-minute limit removed + all premium features unlocked
 
 ### Download Links
-- [📥 Download IPA from Releases](../../releases/download/beta/YamDisplay_Cracked.ipa)
+- [📥 Download IPA from Releases](https://github.com/Sudarshan50/Yam-Display-Cracked/releases/latest/download/YamDisplay_Cracked.ipa)
 - [📂 View Source Files](../../tree/main)
 
 ---
@@ -255,7 +255,7 @@ The official free version limits you to **7-minute sessions**, making it impract
 ---
 
 ### 🔗 Quick Links
-- [📥 Download IPA](../../releases/download/beta/YamDisplay_Cracked.ipa)
+- [📥 Download IPA](https://github.com/Sudarshan50/Yam-Display-Cracked/releases/latest/download/YamDisplay_Cracked.ipa)
 - [📖 Installation Guide](../../blob/main/INSTALLATION.md)
 - [🐛 Report Issues](../../issues)
 - [⭐ Star This Repo](../../stargazers)
